@@ -4,7 +4,7 @@ import pandas as pd
 import pylab as pl
 import numpy as np
 from sklearn import linear_model
-
+# ##### 
 system("clear")
 ## file name : FuelConsumption.csv
 ### read file
